@@ -5,7 +5,7 @@
 🌱 I’m learning **Next.js, Laravel 11, and React**  
 💬 Ask me about **web development**  
 📫 Reach me at [harveydangel@gmail.com](mailto:harveydangel@gmail.com)  
-🌍 Check out my [Portfolio](https://your-portfolio.com)  
+🌍 Check out my [Portfolio](https://harb-seven.vercel.app/)  
 
 ### 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
