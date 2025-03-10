@@ -15,6 +15,8 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-bice-ten.vercel.app/api?username=HarveyDangel&show_icons=true&theme=radical)
+![GitHub Followers](https://img.shields.io/github/followers/HarveyDangel?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/HarveyDangel?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
 
 
