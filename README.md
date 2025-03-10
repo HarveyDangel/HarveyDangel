@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on **my portfolio website**  
 🌱 I’m learning **Next.js, Laravel 11, and React**  
-💬 Ask me about **web development & APIs**  
+💬 Ask me about **web development**  
 📫 Reach me at [harveydangel@gmail.com](mailto:harveydangel@gmail.com)  
 🌍 Check out my [Portfolio](https://your-portfolio.com)  
 
