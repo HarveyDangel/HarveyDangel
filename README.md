@@ -2,7 +2,7 @@
 ### 🚀 Web Developer | BSCS 4th Year | Laravel & React Enthusiast
 
 🔭 I’m currently working on **my portfolio website**  
-🌱 I’m learning **Next.js, Laravel 11, and React**  
+🌱 I’m learning **Next.js, Laravel 12, and React**  
 💬 Ask me about **web development**  
 📫 Reach me at [harveydangel@gmail.com](mailto:harveydangel@gmail.com)  
 🌍 Check out my [Portfolio](https://harb-seven.vercel.app/)  
