@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Harvey!
-### 🚀 Web Developer | BSCS 4th Year | Laravel & React Enthusiast
+### 🚀 Web Developer | BSCS Graduate | Laravel & React Enthusiast
 
 🔭 I’m currently working on **my portfolio website**  
 🌱 I’m learning **Next.js, Laravel 12, and React**  
