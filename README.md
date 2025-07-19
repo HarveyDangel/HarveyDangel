@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Harvey!
-### 🚀 Web Developer | BSCS Graduate | Laravel & React Enthusiast
+### 🚀 Aspiring Software Developer | BSCS Graduate | Laravel & React Enthusiast
 
 🔭 I’m currently working on **my portfolio website**  
 🌱 I’m learning **Next.js, Laravel 12, and React**  
-💬 Ask me about **web development**  
 📫 Reach me at [harveydangel@gmail.com](mailto:harveydangel@gmail.com)  
 🌍 Check out my [Portfolio](https://harb-seven.vercel.app/)  
 
