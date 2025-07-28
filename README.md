@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harvey!
+# 👋 Hi, I'm Harb!
 ### 🚀 Aspiring Software Developer | BSCS Graduate | Laravel & React Enthusiast
 
 🔭 I’m currently working on **my portfolio website**  
