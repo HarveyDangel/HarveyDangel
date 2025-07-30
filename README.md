@@ -47,4 +47,6 @@ I'm a passionate full-stack developer who enjoys building modern, responsive, an
 ---
 
 ### 💡 Fun Fact
-> I debug not just code, but life one line at a time 😄
+> I believe in clean code, after I break it a few times. 🧼💔
+> My IDE has seen things… terrible things. 🧟‍♂️
+> My idea of a good time? Fixing a bug at 2AM and feeling like a wizard. 🧙‍♂️✨
