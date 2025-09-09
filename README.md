@@ -1,3 +1,6 @@
+<!-- banner -->
+![banner](./banner.svg)
+
 # 👋 Hello there! I'm Harb  
 ### 🚀 Aspiring Software Developer | BSCS Graduate | Laravel & React Enthusiast
 
