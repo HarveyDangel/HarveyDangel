@@ -1,9 +1,6 @@
 <!-- banner -->
 ![banner](https://raw.githubusercontent.com/HarveyDangel/HarveyDangel/main/banner.svg)
 
-# 👋 Hello there! I'm Harb  
-### 🚀 Aspiring Software Developer | BSCS Graduate | Laravel & React Enthusiast
-
 I'm a passionate full-stack developer who enjoys building modern, responsive, and user-friendly web applications. I love learning new technologies and am currently focused on improving my skills in full-stack development with **Laravel**, **React**, and **Next.js**.
 
 ---
