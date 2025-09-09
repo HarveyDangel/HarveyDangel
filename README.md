@@ -1,5 +1,5 @@
 <!-- banner -->
-![banner](./banner.svg)
+![banner](https://raw.githubusercontent.com/HarveyDangel/HarveyDangel/main/banner.svg)
 
 # 👋 Hello there! I'm Harb  
 ### 🚀 Aspiring Software Developer | BSCS Graduate | Laravel & React Enthusiast
