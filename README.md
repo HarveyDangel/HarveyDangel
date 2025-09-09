@@ -27,7 +27,7 @@ I'm a passionate full-stack developer who enjoys building modern, responsive, an
 
 ### 🧠 Projects & Portfolio
 - 🔨 I’m currently building my **personal developer portfolio**  
-- 🌐 Visit it here: [harb-seven.vercel.app](https://harb-seven.vercel.app/)
+- 🌐 Visit it here: [harb-coded.vercel.app](https://harb-seven.vercel.app/)
 
 ---
 
