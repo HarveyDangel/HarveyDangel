@@ -5,14 +5,14 @@ I'm a passionate full-stack developer who enjoys building modern, responsive, an
 
 ---
 
-### 🌱 Currently Learning
-- ⚙️ Laravel 12 – for powerful backend solutions  
-- ⚛️ React & Next.js – for modern front-end experiences  
-- 📦 Docker – for containerized development and deployment  
+### Currently Learning
+- Laravel 12 – for powerful backend solutions  
+- React & Next.js – for modern front-end experiences  
+- Docker – for containerized development and deployment  
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 
 **Languages & Tools:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -25,28 +25,22 @@ I'm a passionate full-stack developer who enjoys building modern, responsive, an
 
 ---
 
-### 🧠 Projects & Portfolio
-- 🔨 I’m currently building my **personal developer portfolio**  
-- 🌐 Visit it here: [harb-coded.vercel.app](https://harb-seven.vercel.app/)
+### Projects & Portfolio
+- I’m currently building my **personal developer portfolio**  
+- Visit it here: [harb-coded.vercel.app](https://harb-coded.vercel.app/)
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: [harveydangel@gmail.com](mailto:harveydangel@gmail.com)  
-- 🧑‍💼 LinkedIn: [Harvey Dangel](https://www.linkedin.com/in/harvey-dangel-a4b09b355/)  
+### Contact Me
+- Email: [harveydangel@gmail.com](mailto:harveydangel@gmail.com)  
+- LinkedIn: [Harvey Dangel](https://www.linkedin.com/in/harvey-dangel-a4b09b355/)  
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Harb's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarveyDangel&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarveyDangel&layout=compact&theme=tokyonight)  
 ![GitHub Followers](https://img.shields.io/github/followers/HarveyDangel?style=social)  
 ![GitHub Stars](https://img.shields.io/github/stars/HarveyDangel?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
----
-
-### 💡 Fun Fact
-- I believe in clean code, after I break it a few times. 🧼💔
-- My IDE has seen things… terrible things. 🧟‍♂️
-- My idea of a good time? Fixing a bug at 2AM and feeling like a wizard. 🧙‍♂️✨
