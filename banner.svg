@@ -34,6 +34,6 @@
   <!-- animated subtitle -->
   <text x="50%" y="76%" dominant-baseline="middle" text-anchor="middle"
         font-family="Inter, Roboto, Arial, sans-serif" font-size="32" fill="#cbd5e1" opacity="0.9">
-    Software Engineer | Laravel &amp; React Enthusiast
+    Software Engineer
   </text>
 </svg>
